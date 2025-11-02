@@ -1,2 +1,2 @@
 Recipe Project: Cloning and Updating
-Modification in main branch
+Modification from main and feature-prep branches resolved.
